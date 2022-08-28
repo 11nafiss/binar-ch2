@@ -383,7 +383,7 @@ section {
 
 .carousel_prev {
     background: #ffffff;
-    border: 1px solid #c4c4c4;
+    border: 2px solid #c4c4c4;
     width: 32px;
     height: 32px;
     border-radius: 50%;
@@ -391,7 +391,7 @@ section {
 
 .carousel_next {
     background: #ffffff;
-    border: 1px solid #c4c4c4;
+    border: 2px solid #c4c4c4;
     width: 32px;
     height: 32px;
     border-radius: 50%;
@@ -399,7 +399,7 @@ section {
 
 .carousel_prev:focus {
     background: #5cb85f;
-    border: 1px solid #c4c4c4;
+    border: 2px solid #c4c4c4;
     width: 32px;
     border-radius: 50%;
     color: white;
@@ -407,7 +407,7 @@ section {
 
 .carousel_next:focus {
     background: #5cb85f;
-    border: 1px solid #c4c4c4;
+    border: 2px solid #c4c4c4;
     width: 32px;
     border-radius: 50%;
     color: white;
